@@ -7,6 +7,10 @@ body{
     border: 0cap;
 }
 
-img{
+.imgretrato{
+    width: 300px;
+}
+
+.imgpaisagem{
     width: 400px;
 }
