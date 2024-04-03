@@ -9,10 +9,12 @@ body{
 
 .imgretrato{
     width: 300px;
+    border: 2px solid greenyellow;
 }
 
 .imgpaisagem{
     width: 400px;
+    border: 2px solid greenyellow;
 }
 
 .textovermelho{
